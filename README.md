@@ -86,8 +86,7 @@ We welcome contributions to improve the repository. To contribute:
 
 ## Contact
 For questions or collaborations, reach out to us at:
-- **Email**: support@blockprint3d.com
-- **Website**: [BlockPrint3D](https://blockprint3d.com)
+- **Email**: blockprint3d@gmai.com
 
 Happy building! 🚀
 
