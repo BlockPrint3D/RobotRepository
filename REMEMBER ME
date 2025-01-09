@@ -1,0 +1,8 @@
+natural_standing_position = {
+    "Hip Left": 90,
+    "Knee Left": 120,
+    "Hip Right": 90,
+    "Knee Right": 60,
+    "Left Toe": 110,
+    "Right Toe": 110
+}
