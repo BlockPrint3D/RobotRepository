@@ -1,7 +1,7 @@
 
 
 # RobotRepository
-Welcome to the official repository for **BlockPrint3D's Robot Development Projects**! This repository houses code and documentation related to the development of advanced robotic systems utilizing 3D printing and innovative technology.
+Welcome to the official repository for **BlockPrint3D's Robot Development Project**! This repository houses code and documentation related to the development of advanced robotic systems utilizing 3D printing and innovative technology.
 
 ---
 
